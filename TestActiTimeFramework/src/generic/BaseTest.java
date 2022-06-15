@@ -16,6 +16,8 @@ import org.openqa.selenium.firefox.FirefoxDriver;
 import org.testng.Reporter;
 
 public class BaseTest implements IAutoConstant{
+	
+	//hi Automation
 	protected static WebDriver driver;
 	@BeforeMethod
 	public void setUp() throws IOException
